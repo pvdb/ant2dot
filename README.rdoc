@@ -4,7 +4,7 @@
 
 For now, this git repositoy clones my original ant2dot project on SourceForge:
 
-    http://sourceforge.net/projects/ant2dot/
+http://sourceforge.net/projects/ant2dot/
 
 Over time, the ant2dot.xsl stylesheet will be maintained on and release from GitHub.
 
