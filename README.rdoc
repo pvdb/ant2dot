@@ -1,0 +1,13 @@
+= ant2dot(.xsl)
+
+== Summary
+
+For now, this git repositoy clones my original ant2dot project on SourceForge:
+
+    http://sourceforge.net/projects/ant2dot/
+
+Over time, the ant2dot.xsl stylesheet will be maintained on and release from GitHub.
+
+== Copyright
+
+Copyright (c) 2010 Peter Vandenberk. See LICENSE for details.
