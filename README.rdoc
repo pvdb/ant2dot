@@ -10,4 +10,4 @@ Over time, the ant2dot.xsl stylesheet will be maintained on and released from Gi
 
 == Copyright
 
-Copyright (c) 2010 Peter Vandenberk. See LICENSE for details.
+Copyright (c) 2012 Peter Vandenberk. See LICENSE for details.
